@@ -11,6 +11,16 @@ Python Pandas:
 
 https://pandas.pydata.org/docs/reference/io.html
 
+https://www.w3schools.com/python/pandas/default.asp
+
+https://pypi.org/project/pandas/
+
+https://www.nvidia.com/en-us/glossary/pandas-python/
+
+https://www.learnenough.com/blog/how-to-import-Pandas-in-python
+
+
+
 
 Python Data Visualization:
 
